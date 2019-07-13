@@ -16,7 +16,7 @@ I will develop a machine learning model that will aim to predict Malignant tumor
 
 ## Key files
 
-- [Jupyter notebook of analysis](https://github.com/pranath/breast_cancer_prediction/blob/master/breast_cancer_prediction.ipynb)
+- [Jupyter notebook of analysis and ML model development](https://github.com/pranath/breast_cancer_prediction/blob/master/breast_cancer_prediction.ipynb)
 - [Interactive topological network of breast cancer dataset](https://pranath.github.io/breast_cancer_prediction/tda_breast_cancer.html)
 
 ## Conclusion
