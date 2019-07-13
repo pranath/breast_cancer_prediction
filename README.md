@@ -12,7 +12,7 @@ An example of images of cells that this data comes from of both malignant and be
 
 ![title](img/bc_cells.png)
 
-I will aim to develop a machine learning model that will aim to predict Malignant tumors with the highest accuracy.
+I will develop a machine learning model that will aim to predict Malignant tumors with the highest accuracy.
 
 ## Key files
 
