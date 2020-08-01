@@ -19,7 +19,7 @@ I will develop a machine learning model that will aim to predict Malignant tumor
 - [Jupyter notebook of analysis and ML model development](https://github.com/pranath/breast_cancer_prediction/blob/master/breast_cancer_prediction.ipynb)
 - [Interactive topological network of breast cancer dataset](https://pranath.github.io/breast_cancer_prediction/tda_breast_cancer.html)
 
-## Conclusion
+## Results
 
 In this project I looked at a dataset relating to breast cancer, and developed a model able to predict malignant tumors with a very high degree of accuracy (an F-score of 0.9957).
 
